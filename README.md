@@ -40,7 +40,7 @@ The chatbot provides an intuitive interface for users to ask questions about Apa
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/HendrikKrack/AparaviCustomerSupport.git
 cd AparaviCustomerSupport
 ```
 
